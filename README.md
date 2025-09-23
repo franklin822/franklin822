@@ -1,8 +1,8 @@
 # Hi, I'm Franklin Chen 👋
 
-Computer Science and Business Administration student at **Northeastern University** with a passion for full-stack development and software engineering. I enjoy building practical applications and solving complex problems through code.
+Computer Science and Business Administration student at **Northeastern University** with a passion for full-stack development and software engineering. I enjoy building practical applications and developing games in my free time.
 
-## 🛠️ Technical Skills
+## 💻 Technical Skills
 
 **Languages:** Java, Python, SQL, Lua, Racket  
 **Tools & Technologies:** Git, GitHub, Docker, Streamlit, Java Swing, Roblox Studio, Linux, Windows  
@@ -30,7 +30,7 @@ Computer Science and Business Administration student at **Northeastern Universit
 - Software engineering best practices
 - Game development strategies
 
-## 🎯 Seeking
+## 🔍 Seeking
 Spring 2026 co-op opportunities in software development where I can contribute to meaningful projects and continue growing as an engineer.
 
 ## 📫 Let's Connect
